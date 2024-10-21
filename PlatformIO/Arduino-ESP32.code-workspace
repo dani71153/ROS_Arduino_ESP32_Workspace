@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "Prueba",
+			"path": "Projects/Prueba"
+		},
+		{
+			"name": "Encoders_MotoresV1",
+			"path": "Projects/Encoders_MotoresV1"
+		},
+		{
+			"name": "ROSArduino",
+			"path": "Projects/ROSArduino"
+		},
+		{
+			"name": "ROSESP32",
+			"path": "Projects/ROSESP32"
+		},
+		{
+			"name": "ROSESP32ConPIDV1",
+			"path": "../../Downloads/ROSESP32ConPIDV1"
+		},
+		{
+			"name": "ESP32Debugging",
+			"path": "Projects/ESP32Debugging"
+		},
+		{
+			"name": "PIDDevelopment",
+			"path": "Projects/PIDDevelopment"
+		},
+		{
+			"name": "Projects",
+			"path": "Projects"
+		}
+	],
+	"settings": {}
+}
